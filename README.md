@@ -10,7 +10,7 @@ This repository contains a Python-based machine learning model for recognizing h
 - Libraries: numpy, pandas, seaborn, sklearn, matplotlib, tensorflow, keras
 
 ### Installation
-1. Clone the repo: `(https://github.com/Bubu02/Heart_Disease_Recognition_Model.git)`
+1. Clone the repo: `https://github.com/Bubu02/Heart_Disease_Recognition_Model.git`
 2. Install Python packages: `pip install -r requirements.txt`
 
 ## Usage
